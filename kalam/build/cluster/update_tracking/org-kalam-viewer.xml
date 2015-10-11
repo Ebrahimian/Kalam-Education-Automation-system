@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kalam.viewer">
+    <module_version install_time="1444565986010" last="true" origin="installer" specification_version="1.0">
+        <file crc="3915811763" name="config/Modules/org-kalam-viewer.xml"/>
+        <file crc="2529762893" name="modules/org-kalam-viewer.jar"/>
+    </module_version>
+</module>

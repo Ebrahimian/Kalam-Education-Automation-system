@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sat Apr 26 16:16:32 IRDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0145-9ddb-b1c1-000002249e28 
+on database directory D:\Misc\software\kalam_final1\Cviewer\kalamDataBase  with class loader ModuleCL@58744d[javax.derby] 
+Loaded from jar:file:/D:/Misc/software/kalam_final1/build/cluster/modules/ext/derby.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=D:\Misc\software\kalam_final1\Cviewer
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

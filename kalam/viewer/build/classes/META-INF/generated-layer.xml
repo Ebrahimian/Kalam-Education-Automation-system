@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_kalam_viewer">
+                <file name="viewer" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.kalam.viewer.viewerTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.kalam.viewer//viewer//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="kalam">
+                    <folder name="viewer">
+                        <file name="viewerTopComponent">
+                            <!--org.kalam.viewer.viewerTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//org_kalam_viewer/viewer.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_kalam_viewer">
+                <file name="viewer.instance">
+                    <!--org.kalam.viewer.viewerTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.kalam.viewer.viewerTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.kalam.viewer.viewerTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Cust">
+            <file name="org-shop-viewer-CustomerRootRefreshAction.instance">
+                <!--org.kalam.viewer.stRootRefreshAction-->
+                <attr
+                    bundlevalue="org.kalam.viewer.Bundle#CTL_CustomerRootRefreshAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.kalam.viewer.stRootRefreshAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+        <folder name="Window">
+            <file name="org-kalam-viewer-viewerTopComponent.instance">
+                <!--org.kalam.viewer.viewerTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.kalam.viewer.viewerTopComponent"/>
+                <attr name="preferredID" stringvalue="viewerTopComponent"/>
+                <attr
+                    bundlevalue="org.kalam.viewer.Bundle#CTL_viewerAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-kalam-viewer-viewerTopComponent.shadow">
+                <!--org.kalam.viewer.viewerTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-kalam-viewer-viewerTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="viewerTopComponent.settings">
+                <!--org.kalam.viewer.viewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.kalam.viewer.viewerTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="explorer">
+                <file name="viewerTopComponent.wstcref">
+                    <!--org.kalam.viewer.viewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="viewerTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

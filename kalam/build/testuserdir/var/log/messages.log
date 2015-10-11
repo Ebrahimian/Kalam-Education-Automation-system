@@ -1,0 +1,268 @@
+-------------------------------------------------------------------------------
+>Log Session: Sunday, October 11, 2015 2:19:52 PM CEST
+>System Info: 
+  Product Version         = Kalam 201403101706
+  Operating System        = Windows 7 version 6.1 running on x86
+  Java; VM; Vendor        = 1.8.0_05; Java HotSpot(TM) Server VM 25.5-b02; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_05-b13
+  Java Home               = C:\Program Files\Java\jdk1.8.0_05\jre
+  System Locale; Encoding = en_US (kalam); Cp1252
+  Home Directory          = C:\Users\Ahmad
+  Current Directory       = D:\Misc\software\kalam_final1
+  User Directory          = D:\Misc\software\kalam_final1\build\testuserdir
+  Cache Directory         = D:\Misc\software\kalam_final1\build\testuserdir\var\cache
+  Installation            = D:\Misc\software\kalam_final1\build\cluster
+                            C:\Program Files\NetBeans 8.0\platform
+                            C:\Program Files\NetBeans 8.0\platform
+  Boot & Ext. Classpath   = C:\Program Files\Java\jdk1.8.0_05\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_05\jre\classes;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\access-bridge.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Program Files\NetBeans 8.0\platform\lib\boot.jar;C:\Program Files\NetBeans 8.0\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 8.0\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 8.0\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 8.0\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files\Java\jdk1.8.0_05\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_05\lib\tools.jar
+  Startup Classpath       = C:\Program Files\NetBeans 8.0\platform\core\core.jar;C:\Program Files\NetBeans 8.0\platform\core\org-openide-filesystems.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\core_ja.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\core_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\core_ru.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\core_zh_CN.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\org-openide-filesystems_ja.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\org-openide-filesystems_ru.jar;C:\Program Files\NetBeans 8.0\platform\core\locale\org-openide-filesystems_zh_CN.jar;D:\Misc\software\kalam_final1\build\cluster\core\locale\core_kalam.jar
+-------------------------------------------------------------------------------
+Warning - could not install some modules:
+	org.netbeans.modules.autoupdate.cli - The module named org.netbeans.modules.autoupdate.services was needed and not found.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.24.1 201403101706]
+	org.openide.util [8.37.1 201403101706]
+	org.openide.modules [7.42.1 201403101706]
+	org.netbeans.api.annotations.common/1 [1.23.1 201403101706]
+	org.openide.filesystems [8.10.1 201403101706]
+	org.openide.awt [7.61.1 201403101706]
+	org.netbeans.api.progress/1 [1.37.1 201403101706]
+	org.openide.dialogs [7.36.1 201403101706]
+	org.openide.nodes [7.38.1 201403101706]
+	org.openide.windows [6.70.1 201403101706]
+	org.netbeans.modules.editor.mimelookup/1 [1.35.1 201403101706]
+	org.openide.text [6.61.1 201403101706]
+	org.netbeans.swing.tabcontrol [1.50.1 201403101706]
+	org.netbeans.swing.outline [1.29.1 201403101706]
+	org.openide.explorer [6.56.1 201403101706]
+	org.openide.actions [6.34.1 201403101706]
+	org.netbeans.modules.queries/1 [1.38.1 201403101706]
+	org.openide.loaders [7.56.2 201403101706]
+	org.openide.io [1.44.1 201403101706]
+	org.netbeans.swing.plaf [1.36.1 201403101706]
+	org.netbeans.spi.quicksearch [1.22.1 201403101706]
+	org.netbeans.modules.templates/1 [1.2.1 201403101706]
+	org.netbeans.bootstrap/1 [2.67.1 201403101706]
+	org.netbeans.core.startup/1 [1.53.1 201403101706]
+	org.netbeans.modules.settings/1 [1.44.1 201403101706]
+	org.netbeans.modules.sampler [1.9.1 201403101706]
+	org.netbeans.modules.progress.ui [1.28.1 201403101706]
+	org.netbeans.modules.print [7.21.1 201403101706]
+	org.netbeans.modules.keyring [1.19.1 201403101706]
+	org.netbeans.core/2 [3.45.1 201403101706]
+	org.netbeans.modules.options.api/1 [1.39.1 201403101706]
+	org.netbeans.modules.options.keymap [1.30.1 201403101706]
+	org.netbeans.libs.jna/1 [1.35.1 201403101706]
+	org.netbeans.modules.masterfs/2 [2.46.1 201403101706]
+	org.netbeans.modules.masterfs.windows [1.11.1 201403101706]
+	org.netbeans.modules.masterfs.nio2 [1.11.1 201403101706]
+	org.netbeans.modules.keyring.fallback [1.3.1 201403101706]
+	org.netbeans.modules.keyring.impl [1.18.1 201403101706]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.26.1 201403101706]
+	org.netbeans.libs.osgi [1.17.1 201403101706]
+	org.netbeans.libs.jna.platform/1 [1.5.1 201403101706]
+	org.netbeans.libs.felix [2.11.1 201403101706]
+	org.netbeans.core.windows/2 [2.75.1 201403101706]
+	org.netbeans.core.ui/1 [1.40.1 201403101706]
+	org.netbeans.core.output2/1 [1.36.1 201403101706]
+	org.netbeans.core.network [1.4.1 201403101706]
+	org.netbeans.core.netigso [1.26.1 201403101706]
+	org.netbeans.core.nativeaccess/1 [1.26.1 201403101706]
+	org.netbeans.core.multitabs/1 [1.7.1.1 1 201403101706]
+	org.netbeans.core.io.ui/1 [1.25.1 201403101706]
+	javax.derby [1.0 151011]
+	javax.persistence [1.0 151011]
+	org.kalam.model [1.0 151011]
+	org.kalam.secsys [1.0 151011]
+	org.kalam.viewer [1.0 151011]
+	org.kalam.editor [1.0 151011]
+	org.kalam.cviewer [1.0 151011]
+	org.kalam.ceditor [1.0 151011]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+WARNING [org.openide.filesystems.Ordering]: Not all children in Windows2/Modes/output/ marked with the position attribute: [CeditorTopComponent.wstcref], but some are: [output.wstcref]
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'CviewerTopComponent'. Reason: null
+java.lang.ClassNotFoundException: com.sun.servicetag.SystemEnvironment
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:372)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:360)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:222)
+Caused: java.lang.ClassNotFoundException: com.sun.servicetag.SystemEnvironment starting from ModuleCL@10edd10[org.kalam.secsys] with possible defining loaders null and declared parents ]
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:224)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+Caused: java.lang.NoClassDefFoundError: com/sun/servicetag/SystemEnvironment
+	at secsys.Secsys.<clinit>(Secsys.java:13)
+	at org.kalam.cviewer.CviewerTopComponent.<init>(CviewerTopComponent.java:46)
+Caused: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport.newInstance(XMLSettingsSupport.java:100)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:628)
+Caused: java.io.IOException
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:630)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+WARNING [org.openide.windows.WindowManager]: [Winsys] TopComponent org.kalam.ceditor.CeditorTopComponent throws exception/error from its componentOpened() method.
+Please repair it!
+java.lang.NullPointerException
+	at org.kalam.ceditor.CeditorTopComponent.componentOpened(CeditorTopComponent.java:412)
+[catch] at org.openide.windows.WindowManager.componentOpenNotify(WindowManager.java:307)
+	at org.netbeans.core.windows.WindowManagerImpl.notifyTopComponentOpened(WindowManagerImpl.java:1149)
+	at org.netbeans.core.windows.Central.insertModeOpenedTopComponent(Central.java:841)
+	at org.netbeans.core.windows.ModeImpl.addOpenedTopComponent(ModeImpl.java:362)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:162)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'viewerTopComponent'. Reason: null
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.kalam.viewer.viewerTopComponent"/>
+</settings>
+Class: class org.kalam.viewer.viewerTopComponent
+Source: MultiFileObject@1652760[Windows2Local/Components/viewerTopComponent.settings]
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.kalam.viewer.viewerTopComponent"/>
+</settings>
+Class: class org.kalam.viewer.viewerTopComponent
+Source: MultiFileObject@1652760[Windows2Local/Components/viewerTopComponent.settings]
+Caused: java.lang.NoClassDefFoundError: Could not initialize class secsys.Secsys
+	at org.kalam.viewer.viewerTopComponent.<init>(viewerTopComponent.java:55)
+Caused: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport.newInstance(XMLSettingsSupport.java:100)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:628)
+Caused: java.io.IOException
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:630)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.kalam.viewer.viewerTopComponent"/>
+</settings>
+ALL [null]: Class: class org.kalam.viewer.viewerTopComponent
+ALL [null]: Source: MultiFileObject@1652760[Windows2Local/Components/viewerTopComponent.settings]
+WARNING [org.openide.windows.WindowManager]: [Winsys] TopComponent org.kalam.editor.editorTopComponent throws exception/error from its componentOpened() method.
+Please repair it!
+java.lang.NullPointerException
+	at org.kalam.editor.editorTopComponent.componentOpened(editorTopComponent.java:576)
+[catch] at org.openide.windows.WindowManager.componentOpenNotify(WindowManager.java:307)
+	at org.netbeans.core.windows.WindowManagerImpl.notifyTopComponentOpened(WindowManagerImpl.java:1149)
+	at org.netbeans.core.windows.Central.insertModeOpenedTopComponent(Central.java:841)
+	at org.netbeans.core.windows.ModeImpl.addOpenedTopComponent(ModeImpl.java:362)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:162)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Diagnostic information
+Input arguments:
+	-Dnetbeans.logger.console=true
+	-ea
+	-Djdk.home=C:\Program Files\Java\jdk1.8.0_05
+	-Dnetbeans.home=C:\Program Files\NetBeans 8.0\platform
+	-Dnetbeans.user=D:\Misc\software\kalam_final1\build\testuserdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=D:\Misc\software\kalam_final1\build\testuserdir\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=D:\Misc\software\kalam_final1\build\cluster;C:\Program Files\NetBeans 8.0\platform
+	exit
+Compiler: HotSpot Tiered Compilers
+Heap memory usage: initial 48.0MB maximum 622.2MB
+Non heap memory usage: initial 2.2MB maximum -1b
+Garbage collector: PS Scavenge (Collections=9 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=1 Total time spent=0s)
+Classes: loaded=4697 total loaded=4697 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 3,144,351,744
+INFO [null]: Total physical memory 3,144,351,744
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [org-kalam-ceditor-CeditorTopComponent.shadow, org-kalam-cviewer-CviewerTopComponent.shadow, org-kalam-editor-editorTopComponent.shadow, org-kalam-viewer-viewerTopComponent.shadow], but some are: [org-netbeans-core-io-ui-IOWindowAction.shadow, SwitchToRecentDocumentAction.shadow, Web, Tools, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, GroupsMenuAction.shadow, DocumentsAction.shadow]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.Clusters.relativeDirsWithHome(Clusters.java:137)

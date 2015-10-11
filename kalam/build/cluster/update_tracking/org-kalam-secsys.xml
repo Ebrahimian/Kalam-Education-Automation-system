@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kalam.secsys">
+    <module_version install_time="1444565985540" last="true" origin="installer" specification_version="1.0">
+        <file crc="2373915350" name="config/Modules/org-kalam-secsys.xml"/>
+        <file crc="2850755187" name="modules/ext/secsys.jar"/>
+        <file crc="1680824639" name="modules/org-kalam-secsys.jar"/>
+    </module_version>
+</module>

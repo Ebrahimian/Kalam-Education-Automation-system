@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_kalam_ceditor">
+                <file name="Ceditor" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.kalam.ceditor.CeditorTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.kalam.ceditor//Ceditor//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="kalam">
+                    <folder name="ceditor">
+                        <file name="CeditorTopComponent">
+                            <!--org.kalam.ceditor.CeditorTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//org_kalam_ceditor/Ceditor.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_kalam_ceditor">
+                <file name="Ceditor.instance">
+                    <!--org.kalam.ceditor.CeditorTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.kalam.ceditor.CeditorTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.kalam.ceditor.CeditorTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="org-shop-editor-CustomerNewAction.instance">
+                <!--org.kalam.ceditor.CNewAction-->
+                <attr
+                    bundlevalue="org.kalam.ceditor.Bundle#CTL_CustomerNewAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.kalam.ceditor.CNewAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+        <folder name="Window">
+            <file name="org-kalam-ceditor-CeditorTopComponent.instance">
+                <!--org.kalam.ceditor.CeditorTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.kalam.ceditor.CeditorTopComponent"/>
+                <attr name="preferredID" stringvalue="CeditorTopComponent"/>
+                <attr
+                    bundlevalue="org.kalam.ceditor.Bundle#CTL_CeditorAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-kalam-ceditor-CeditorTopComponent.shadow">
+                <!--org.kalam.ceditor.CeditorTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-kalam-ceditor-CeditorTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="CeditorTopComponent.settings">
+                <!--org.kalam.ceditor.CeditorTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.kalam.ceditor.CeditorTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="output">
+                <file name="CeditorTopComponent.wstcref">
+                    <!--org.kalam.ceditor.CeditorTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="CeditorTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

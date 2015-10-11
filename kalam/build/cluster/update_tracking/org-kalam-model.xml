@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kalam.model">
+    <module_version install_time="1444565985163" last="true" origin="installer" specification_version="1.0">
+        <file crc="2182045547" name="config/Modules/org-kalam-model.xml"/>
+        <file crc="2385532531" name="modules/ext/stLibrary.jar"/>
+        <file crc="578291599" name="modules/org-kalam-model.jar"/>
+    </module_version>
+</module>

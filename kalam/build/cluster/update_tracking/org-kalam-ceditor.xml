@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kalam.ceditor">
+    <module_version install_time="1444565985385" last="true" origin="installer" specification_version="1.0">
+        <file crc="1596576888" name="config/Modules/org-kalam-ceditor.xml"/>
+        <file crc="1078611193" name="modules/org-kalam-ceditor.jar"/>
+    </module_version>
+</module>
